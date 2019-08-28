@@ -1,6 +1,6 @@
 {
   "name": "node-newid",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "create new id",
   "main": "index.js",
   "scripts": {
@@ -16,6 +16,6 @@
 		"url": "https://github.com/kkchan2014/node-newid.git"
 	},
   "dependencies": {
-    "node-type-extensions": "~1.0.0"
+    "node-type-extensions": "latest"
   }
 }
